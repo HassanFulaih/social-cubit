@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923427125583",
+    "firebase_url": "https://test-7dbab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-7dbab",
+    "storage_bucket": "test-7dbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923427125583:android:7bce409361fcaef4266d3a",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923427125583-vto51554cvera8a6v66ji9jkvq5rfade.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjhUO1moLpg_FTnsSq5Qhu9ajIzm6ZLCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923427125583-vto51554cvera8a6v66ji9jkvq5rfade.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
